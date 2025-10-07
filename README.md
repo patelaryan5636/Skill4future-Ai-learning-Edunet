@@ -27,5 +27,3 @@ This repository documents my journey into the field of **AI and Machine Learning
 
 ---
 
-## 🧩 Repository Structure
-
