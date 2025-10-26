@@ -13,7 +13,7 @@ This repository documents my journey into the field of **AI and Machine Learning
 - Build and deploy **AI-driven applications** that demonstrate creativity and problem-solving.  
 - Strengthen analytical thinking and coding proficiency for future-ready skills.
 
-----
+---
 
 ## 🧠 Topics Covered
 
@@ -25,5 +25,5 @@ This repository documents my journey into the field of **AI and Machine Learning
 - AI Ethics and Sustainability  
 - Real-world Mini Projects and Case Studies  
 
-----
+---
 
