@@ -1,4 +1,4 @@
-# 🌟 Skill4Future AI Lab
+ # 🌟 Skill4Future AI Lab
 
 Welcome to my **Artificial Intelligence Learning Repository**, created as part of the **Edunet Skill4Future Program**.  
 This repository documents my journey into the field of **AI and Machine Learning**, where I explore algorithms, build models, and gain hands-on experience through practical projects. The aim is to strengthen my understanding of intelligent systems and apply AI to solve real-world problems.
